@@ -3,7 +3,7 @@
 
 int main()
 {
-    /*
+    
     int matriz[3][3], i, j;
 
     for ( i = 0; i < 3; i++)
@@ -24,7 +24,7 @@ int main()
         }
 
     }
-    */
+    
    
     char frase[20], inteiros[20];
     int i, cont = 0;
@@ -41,7 +41,7 @@ int main()
         printf("%c", frase[2]);
 
     }
-    /*
+    
 
         int matriz[3][3], linha1, coluna1, soma = 0, maior = 0, menor; // variaveis
         for (linha1 = 0; linha1 < 3; linha1++)                         // conta as linhas e quantas vezes ela foi rodada.
@@ -97,5 +97,5 @@ int main()
         }
         printf("\nMaior e: %d,\n Menor e: %d", maior, menor);
 
-        //COMPLETAR */
+        //COMPLETAR 
 }
